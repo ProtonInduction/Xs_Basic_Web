@@ -1,0 +1,57 @@
+/* Reset default styles */
+body,
+h1,
+p {
+  margin: 0;
+  padding: 0;
+}
+
+/* Set default font and color */
+body {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+/* Add some spacing */
+h1,
+p {
+  margin-bottom: 10px;
+}
+
+/* Add a background color */
+body {
+  background-color: #f2f2f2;
+}
+
+/* Center the content */
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+/* Add some styles to headings */
+h1 {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+/* Add some styles to paragraphs */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Add some styles to links */
+a {
+  color: #007bff;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
